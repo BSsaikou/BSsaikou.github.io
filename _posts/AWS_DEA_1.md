@@ -3,9 +3,10 @@ layout: single
 title: "데이터 타입"
 ---
 
-챗지피티로 요약
+챗지피티 요약
 
-1. Structured Data (구조화된 데이터)
+## 1. Structured Data (구조화된 데이터)
+
 정의
 정해진 형식(스키마)이 있으며, 행(row)과 열(column)로 구성된 데이터입니다.
 
@@ -19,9 +20,10 @@ title: "데이터 타입"
 
 예시
 
-|ID|이름|나이|이메일|
-|1|철수|25|chulsoo@email.com|
-|2|영희|30|younghee@email.com|
+| ID | 이름 | 나이 | 이메일 |
+| --- | --- | --- | --- |
+| 1 | 철수 | 25 | chulsoo@email.com |
+| 2 | 영희 | 30 | younghee@email.com |
 
 사용 예
 MySQL, PostgreSQL, Oracle DB
@@ -29,7 +31,7 @@ MySQL, PostgreSQL, Oracle DB
 기업의 고객 정보, 거래 내역, 재고 관리 등
 
 
- 2. Unstructured Data (비구조화된 데이터)
+## 2. Unstructured Data (비구조화된 데이터)
 
 정의
 
@@ -54,7 +56,7 @@ SNS 게시글, 유튜브 댓글 등
 
 
 
-3. Semi-structured Data (반구조화된 데이터)
+## 3. Semi-structured Data (반구조화된 데이터)
 
 정의
 
