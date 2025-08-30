@@ -47,7 +47,7 @@ us-east-1, ap-northeast-2 이런 것들이 AWS 리전이다.
 - - -
 ### AWS Availability Zones(AZ)
 
-각 리전에는 3~6개의 AZ가 있다.
+각 리전에는 3~6개의 AZ가 있다.    
 예시
 * ap-southeast-2a
 * ap-southeast-2b
