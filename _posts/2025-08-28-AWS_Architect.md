@@ -68,3 +68,5 @@ us-east-1, ap-northeast-2 이런 것들이 AWS 리전이다.
   * Elastic Beanstalk
   * Lambda
   * Rekognition
+
+  
