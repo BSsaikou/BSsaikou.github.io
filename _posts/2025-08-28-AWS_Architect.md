@@ -9,6 +9,9 @@ AWS_ASS 강의 요약
 ===
 - - -
 강의 자료: <https://courses.datacumulus.com/downloads/certified-solutions-architect-pn9>
+
+ppt 자료: <https://media.datacumulus.com/aws-saa/AWS%20Certified%20Solutions%20Architect%20Slides%20v45.pdf?_gl=1*bp7ngd*_ga*MTMyNjI1OTIyOS4xNzU2MzYzNDEx*_ga_6GZZTGGX7H*czE3NTc4NTkxMjYkbzIkZzEkdDE3NTc4NTkxMzAkajU2JGwwJGgw>
+
 - - -
 
 AWS Cloud는 어디서든 어떤 기업이든 사용될 수 있다.
