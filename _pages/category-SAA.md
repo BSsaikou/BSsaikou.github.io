@@ -1,5 +1,5 @@
 ---
-title: "카테고리"
+title: "Solutions Architect Associate"
 layout: archive
 permalink: /AWS_SAA
 ---

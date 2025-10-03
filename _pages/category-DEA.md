@@ -1,5 +1,5 @@
 ---
-title: "카테고리"
+title: "Data engineer"
 layout: archive
 permalink: /AWS_DEA
 ---

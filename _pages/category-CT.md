@@ -1,5 +1,5 @@
 ---
-title: "카테고리"
+title: "코딩 테스트"
 layout: archive
 permalink: /CT
 ---
