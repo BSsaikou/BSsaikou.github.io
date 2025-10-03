@@ -2,7 +2,8 @@
 layout: single
 title: "AWS 아키텍쳐 강의 요약"
 date: 2025-08-28
-cartegories: [AWS_SAA]
+cartegories:
+  - AWS_SAA
 tag: [AWS, SAA]
 ---
 AWS_ASS 강의 요약
