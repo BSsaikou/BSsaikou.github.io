@@ -1,7 +1,7 @@
 ---
 title: "카테고리"
 layout: archive
-permalink: /SAA
+permalink: /AWS_SAA
 ---
 
 
