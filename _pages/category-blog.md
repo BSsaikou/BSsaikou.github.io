@@ -1,5 +1,5 @@
 ---
-title: "blog"
+title: "카테고리"
 layout: archive
 permalink: /SAA
 ---

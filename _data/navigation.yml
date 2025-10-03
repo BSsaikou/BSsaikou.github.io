@@ -14,8 +14,8 @@ sidebar-category:
   - title: "AWS"
     children:
       - title: "SAA"
-        url: "/SAA"
+        url: "/AWS_SAA"
       - title: "DEA"
-        url:  "/DEA"
+        url:  "/AWS_DEA"
       - title: "카테고리C"
         url:  "/CategoryC"
