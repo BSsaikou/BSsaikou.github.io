@@ -17,5 +17,7 @@ sidebar-category:
         url: "/AWS_SAA"
       - title: "DEA"
         url:  "/AWS_DEA"
-      - title: "카테고리C"
-        url:  "/CategoryC"
+  - title: "코테"
+    children:
+      - title: "파이썬 기초"
+        url:  "/CT"
