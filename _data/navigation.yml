@@ -10,3 +10,7 @@ sidebar-category:
     children:
       - title: "파이썬 기초"
         url:  "/CT"
+  - title: "대학 강의"
+    children:
+      - title: "딥러닝"
+        url:  "/DL"
