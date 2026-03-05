@@ -1,0 +1,39 @@
+<svg width="700" height="300" xmlns="http://www.w3.org/2000/svg">
+
+<!-- Inputs -->
+<text x="40" y="90" font-size="16">x₁</text>
+<text x="40" y="180" font-size="16">x₂</text>
+
+<!-- Lines -->
+<line x1="60" y1="85" x2="200" y2="130" stroke="black"></line>
+<line x1="60" y1="175" x2="200" y2="150" stroke="black"></line>
+
+<!-- Weights -->
+<text x="110" y="100" font-size="14">w₁</text>
+<text x="110" y="165" font-size="14">w₂</text>
+
+<!-- Summation circle -->
+<circle cx="230" cy="140" r="30" stroke="black" fill="white"></circle>
+<text x="222" y="146" font-size="18">Σ</text>
+
+<!-- Bias -->
+<text x="220" y="210" font-size="14">+ b</text>
+
+<!-- Arrow to activation -->
+<line x1="260" y1="140" x2="380" y2="140" stroke="black"></line>
+<polygon points="380,140 370,135 370,145" fill="black"></polygon>
+
+<!-- Activation box -->
+<rect x="380" y="100" width="170" height="80" stroke="black" fill="white"></rect>
+<text x="395" y="125" font-size="14">Activation</text>
+<text x="395" y="145" font-size="14">z ≥ 0 → 1</text>
+<text x="395" y="165" font-size="14">z &lt; 0 → 0</text>
+
+<!-- Arrow to output -->
+<line x1="550" y1="140" x2="650" y2="140" stroke="black"></line>
+<polygon points="650,140 640,135 640,145" fill="black"></polygon>
+
+<!-- Output -->
+<text x="660" y="145" font-size="16">y</text>
+
+</svg>
